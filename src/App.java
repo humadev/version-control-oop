@@ -3,5 +3,6 @@ public class App {
         Hero hero1 = new Hero("Huma");
 
         System.out.println(hero1.moveForward());
+        System.out.println(hero1.moveBackward());
     }
 }
